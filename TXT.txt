@@ -1,8 +1,1 @@
-hello
-
-world
-
-i 
-am 
-
-victor
+My name is Victor. I grew up in Sweden where I developed my interests in Hockey, music, video games, and computers in general. In highschool I was eager to learn how to develop video games and gained experience with unity, 3d modeling, rigging, skinning, texturing, and animations. My passion for hockey eventually brought me to america where I would continue to play hockey and study computer science. During my college experience I had the opportunity to work with Reynolds Packaging during my summer internship which was focused on Java programming, C programming, and modbus. I am currently attending my last college semester at UWGB and I am very excited to get to work with companies who create applications that will assist or bring joy to others in any form or way. What I normally do outside the world of ones and zeros is playing the guitar where I draw my inspiration from bands such as Dreamtheater and Metallica. Thank you for checking out my website, feel free to use my code I post on here for your own projects. 
