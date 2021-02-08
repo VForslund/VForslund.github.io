@@ -2,9 +2,7 @@
 
 function loadAboutFunction(){
 
-jQuery.get("https://github.com/VForslund/webtxt/blob/main/TXT.txt", function(t){
-  $('#abouttextid').text(t);
-});
+$( "#abouttextid" ).load( "TXT.txt" );
 }
 function viewResume(){
     document.getElementById("resumeid").style.display = "block";
@@ -21,8 +19,4 @@ function showContact(){
   } else {
     x.style.display = "none";
   }
-}
-
-function test(){
-$( "#abouttextid" ).load( "TXT.txt" );
 }
