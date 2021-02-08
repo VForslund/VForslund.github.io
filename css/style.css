@@ -127,6 +127,7 @@ input[type=button]:active{
   font-size: 32px;
 }
 .fa-facebook,
+.fa-download,
 .fa-twitter,
 .fa-instagram{
   color: #FFFFFF;
@@ -166,7 +167,21 @@ input[type=button]:active{
   left: 20%;
   top: 100px;
   width: 40%;
+  font-size: 20px;
+  line-height: 28px;
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   height: auto;}
+
+.pyquicksort{
+  position: relative;
+  width: 80%;
+  left: 20%;
+  color: #fff;
+}
+
+.pyquicksort i{
+  padding-left: 20px;
+  font-size: 32px;
+}
