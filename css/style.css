@@ -127,7 +127,6 @@ input[type=button]:active{
   font-size: 32px;
 }
 .fa-facebook,
-.fa-download,
 .fa-twitter,
 .fa-instagram{
   color: #FFFFFF;
@@ -174,14 +173,49 @@ input[type=button]:active{
   justify-content: flex-start;
   height: auto;}
 
-.pyquicksort{
-  position: relative;
-  width: 80%;
-  left: 20%;
+.firstcontainer{
+  display: flex;
+  margin-top: 100px;
+  margin-left: 100px;
+}
+.leftitem{
   color: #fff;
+  width: 50%;
+  float: left;
+  padding: 20px;
+  font-size: 18px;
+}
+.rightitem{
+  color: #fff;
+  width: 50%;
+  float: left;
+  padding: 20px;
+  font-size: 18px;
 }
 
-.pyquicksort i{
-  padding-left: 20px;
-  font-size: 32px;
+.leftitem a{
+  margin-left: 12em;
+  color: white;
+  position: absolute;
+}
+.leftitem i{
+  color: #FFFFFF;
+  font-size: 24px;
+}
+.leftitem img{
+  margin-top: 35px;
+}
+
+.rightitem a{
+  margin-left: 12em;
+  color: white;
+  position: absolute;
+}
+.rightitem i{
+  color: #FFFFFF;
+  font-size: 24px;
+}
+
+.rightitem img{
+  margin-top: 35px;
 }
