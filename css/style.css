@@ -175,9 +175,18 @@ input[type=button]:active{
 
 .firstcontainer{
   display: flex;
+  text-align: center;
   margin-top: 100px;
-  margin-left: 100px;
 }
+
+
+.firstcontainer img{
+  height: 300px;
+  margin: auto;
+  display: flex;
+  align-items: center;
+}
+
 .leftitem{
   color: #fff;
   width: 50%;
@@ -194,7 +203,7 @@ input[type=button]:active{
 }
 
 .leftitem a{
-  margin-left: 12em;
+  margin-left: 2em;
   color: white;
   position: absolute;
 }
@@ -207,7 +216,7 @@ input[type=button]:active{
 }
 
 .rightitem a{
-  margin-left: 12em;
+  margin-left: 2em;
   color: white;
   position: absolute;
 }
